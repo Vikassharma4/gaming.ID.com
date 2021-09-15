@@ -1,0 +1,84 @@
+
+
+.footer {
+  background-color: #12a105;
+  padding-top: 10px;
+  margin-top: 0px;
+  position: absolute; 
+  width:100%;
+}
+
+
+.footer0{
+ float: center;
+ padding-top: 10px;
+ 
+}
+
+.footertext{
+  font-size: 20px;
+  color: #ffffff;
+  font-variant: inherit
+  font-weight: bold;
+  text-align: center;
+  margin: 50px;
+}
+
+.footer1{
+ float: center;
+ padding-top: 0px;
+ font-size: 25px;
+ color: #ffffff;
+ font-family:sans-serif;
+ font-weight: bold;
+ 
+}
+
+.downloadapp{
+    font-size: 15px;
+    padding-top: 10px;
+}
+
+.androidit:hover, .androidit:focus {
+  color: #12a105;
+  box-shadow: 0 0 2VMAX 0 #ffffff;
+}
+
+.iosit:hover, .iosit:focus {
+  color: #12a105;
+  box-shadow: 0 0 2VMAX 0 #000000;
+}
+
+.footerlinkabout:hover{
+   color: #00b800; 
+}
+
+.footerlogo{
+    border-radius: 5px;
+    border-color: #bbbbbb;
+    box-shadow: 0px 10px 10px 0px #A9A9A9
+  
+}
+
+.footerlogo:hover, .footerlogo:focus {
+  color: #ffffff;
+  box-shadow: 0 0 2VMAX 0 #ffffff;
+}
+
+
+div.hr {
+  margin-top: 20px;
+  margin-bottom: 5px;
+  border: 0;
+  border-top: 1px dashed #ffffff;
+  text-align: center;
+  height: 0px;
+  line-height: 0px;
+}
+
+.hr-title{
+    color: #ffffff;
+    font-size: 15px;
+    background-color: #12a105; 
+}
+
